@@ -1,1 +1,1 @@
-bar test
+asdf bar test
